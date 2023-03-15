@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JRuDVWHvaHIaINxII0krTU78OeLUkNyPvZ7zIJZQkVvsol4kTcbqkwWEiK87eJnlaP8EMPYNCy7mcLMvxQRqWQ==",
+  "dgSpecHash": "2/5M3aDWmd9F40vz4ezc9A842SLZ3wIj4cfS40zFX1oxoXvSmvRKVF9WIkWhUZswnN9vFGHuC1cyqASV7k+buA==",
   "success": true,
-  "projectFilePath": "D:\\ReactJs và NetCore\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj",
+  "projectFilePath": "D:\\Asp git\\CharacterInfo\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

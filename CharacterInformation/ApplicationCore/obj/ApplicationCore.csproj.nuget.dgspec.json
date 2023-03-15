@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ReactJs và NetCore\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj": {}
+    "D:\\Asp git\\CharacterInfo\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj": {}
   },
   "projects": {
-    "D:\\ReactJs và NetCore\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj": {
+    "D:\\Asp git\\CharacterInfo\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ReactJs và NetCore\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "D:\\Asp git\\CharacterInfo\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "D:\\ReactJs và NetCore\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "D:\\Asp git\\CharacterInfo\\CharacterInformation\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\ReactJs và NetCore\\CharacterInformation\\ApplicationCore\\obj\\",
+        "outputPath": "D:\\Asp git\\CharacterInfo\\CharacterInformation\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
